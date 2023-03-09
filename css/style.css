@@ -41,6 +41,7 @@ img {
 .illustration-hero {
   border-top-left-radius: 2em;
   border-top-right-radius: 2em;
+  margin-bottom: 3.2em;
 }
 
 .card {
@@ -51,7 +52,8 @@ img {
 }
 
 .card__text {
-  padding: 3.2em 0;
+  /* padding: 3.2em 0; */
+  padding-bottom: 3.2em;
   margin: 0 2.4em;
 }
 
@@ -158,11 +160,14 @@ button {
   main {
     max-width: 45em;
   }
+  .illustration-hero {
+    margin-bottom: 4.8em;
+  }
 
   .card__text {
     padding: 0;
     padding-bottom: 4em;
-    margin: 3.5em 4.4em 0em 4.4em;
+    margin: 0em 4.4em 0em 4.4em;
   }
   .card__text > h1 {
     font-size: 2.8rem;
