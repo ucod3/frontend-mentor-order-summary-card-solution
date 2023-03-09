@@ -193,7 +193,7 @@ button {
     padding: 0;
   }
   .proceed {
-    font-size: 1.5rem;
+    /* font-size: 1.5rem; */
     padding: 1.5rem 10.2rem;
     margin-bottom: 3.2rem;
   }
