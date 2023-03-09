@@ -41,7 +41,6 @@ img {
 .illustration-hero {
   border-top-left-radius: 2em;
   border-top-right-radius: 2em;
-  /* margin-bottom: 3.2em; */
 }
 
 .card {
@@ -52,7 +51,6 @@ img {
 }
 
 .card__text {
-  /* padding: 3.2em 0; */
   padding-bottom: 3.2em;
   margin: 0 2.4em;
 }
@@ -61,8 +59,7 @@ img {
   font-size: 2.2rem;
   font-weight: 900;
   color: var(--clr-neutral-700);
-  padding: 1.6rem 0;
-  /* margin-bottom: 1.6rem; */
+  padding: 3.2rem 0 1.6rem 0;
 }
 .card__text > p {
   text-align: center;
@@ -161,10 +158,6 @@ button {
   main {
     max-width: 45em;
   }
-  .illustration-hero {
-    /* margin-bottom: 4.8em; */
-    /* padding-bottom: 1em; */
-  }
 
   .card__text {
     padding: 0;
@@ -173,12 +166,11 @@ button {
   }
   .card__text > h1 {
     font-size: 2.8rem;
-    /* padding-bottom: 1em; */
+    padding: 4.5rem 0 1.7rem 0;
     margin-bottom: 0rem;
   }
   .card__text > p {
     font-size: 1.6rem;
-    /* padding-top: 1em; */
   }
 
   .plan {
