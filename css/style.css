@@ -65,7 +65,7 @@ img {
   text-align: center;
   font-size: 1.5rem;
   font-weight: 500;
-  line-height: 1.5;
+  line-height: 1.6;
 }
 .plan {
   display: flex;
@@ -160,8 +160,8 @@ button {
   }
 
   .card__text {
-    /* padding: 4em 0 4.9em 0; */
-    padding: 3.8em 0;
+    padding: 4em 0 4.8em 0;
+    /* padding: 3.8em 0; */
     margin: 0 4.4em;
   }
   .card__text > h1 {
@@ -188,6 +188,8 @@ button {
     font-size: 1.4rem;
   }
   .proceed {
+    font-size: 1.5rem;
+
     padding: 1.9rem 10.2rem;
     margin-bottom: 3.2rem;
   }
