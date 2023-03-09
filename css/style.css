@@ -91,7 +91,7 @@ img {
 
 .plan__price > h2,
 .plan__price > p {
-  font-size: 1.3rem;
+  font-size: 1.4rem;
 }
 
 .plan__price > h2 {
@@ -182,7 +182,10 @@ button {
   }
   .plan__price > h2,
   .plan__price > p {
-    font-size: 1.8rem;
+    font-size: 1.6rem;
+  }
+  .plan__price > h2 {
+    font-weight: 900;
   }
 
   .plan__change {
