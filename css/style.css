@@ -81,7 +81,6 @@ img {
   flex-direction: column;
   align-items: flex-start;
   padding-left: 2em;
-  padding-right: 4.3em;
 }
 
 .plan > img {
@@ -106,6 +105,7 @@ img {
   font-size: 1.3rem;
   font-weight: 700;
   color: var(--clr-primary-700);
+  padding: 0 1.6rem 0 5rem;
 }
 
 button {
@@ -176,10 +176,7 @@ button {
     padding: 2.4em;
     margin: 2em 0 3.2em 0;
   }
-  .plan__price {
-    padding-left: 2em;
-    padding-right: 9.4em;
-  }
+
   .plan__price > h2,
   .plan__price > p {
     font-size: 1.6rem;
@@ -190,6 +187,7 @@ button {
 
   .plan__change {
     font-size: 1.4rem;
+    padding: 0 2.4rem 0 7.8rem;
   }
   .proceed {
     padding: 1.7rem 10.2rem;
