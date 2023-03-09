@@ -70,7 +70,7 @@ img {
 .plan {
   display: flex;
   align-items: center;
-  padding: 1.6em;
+  padding: 1.3em;
   background-color: var(--clr-neutral-300);
   border-radius: 1.1em;
   margin: 2.4em 0;
