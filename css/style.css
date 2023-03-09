@@ -162,7 +162,7 @@ button {
   .card__text {
     padding: 0;
     padding-bottom: 4em;
-    margin: 4.4em 0em;
+    margin: 0em 4.4em;
   }
   .card__text > h1 {
     font-size: 2.8rem;
@@ -193,7 +193,6 @@ button {
     padding: 0;
   }
   .proceed {
-    /* font-size: 1.5rem; */
     padding: 1.5rem 10.2rem;
     margin-bottom: 3.2rem;
   }
