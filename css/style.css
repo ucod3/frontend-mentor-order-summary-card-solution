@@ -126,7 +126,7 @@ button {
   box-shadow: 0px 2rem 2rem rgba(56, 42, 225, 0.190291);
 }
 .cancel {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   font-weight: 700;
   color: var(--clr-neutral-500);
 }
@@ -183,7 +183,7 @@ button {
   }
 
   .plan__change {
-    font-size: 1.4rem;
+    /* font-size: 1.4rem; */
   }
   .proceed {
     padding: 1.5rem 10.2rem;
