@@ -27,12 +27,11 @@ body {
   background-image: url(../images/pattern-background-mobile.svg);
   background-repeat: no-repeat;
   color: var(--clr-neutral-500);
-  line-height: 1.6;
+  font-family: 'Red Hat Display', sans-serif;
 }
 
 main {
   max-width: 32.7em;
-  /* max-width: 37.5em; */
 }
 
 img {
