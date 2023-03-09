@@ -161,8 +161,8 @@ button {
 
   .card__text {
     /* padding: 3.8em 0 4.2em 0; */
-    padding: 3em 0 4em 0;
-    margin: 0em 4.4em 1em 4.4em;
+    padding: 2em 0 4em 0;
+    margin: 1em 4.4em 1em 4.4em;
   }
   .card__text > h1 {
     font-size: 2.8rem;
