@@ -160,7 +160,7 @@ button {
   }
 
   .card__text {
-    /* padding: 4em 0 em 0; */
+    padding: 2em 0 2em 0;
   }
   .card__text > h1 {
     font-size: 2.8rem;
@@ -175,7 +175,7 @@ button {
   }
   .plan__price {
     padding-left: 2em;
-    padding-right: 7.8em;
+    /* padding-right: 7.8em; */
   }
   .plan__price > h2,
   .plan__price > p {
