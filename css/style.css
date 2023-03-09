@@ -57,7 +57,7 @@ img {
 
 .card__text > h1 {
   font-size: 2.2rem;
-  font-weight: 700;
+  font-weight: 900;
   color: var(--clr-neutral-700);
   margin-bottom: 1.6rem;
 }
@@ -127,7 +127,7 @@ button {
 }
 .cancel {
   font-size: 1.5rem;
-  font-weight: 700;
+  font-weight: 900;
   color: var(--clr-neutral-500);
 }
 .cancel:link {
