@@ -27,7 +27,7 @@ body {
   background-image: url(../images/pattern-background-mobile.svg);
   background-repeat: no-repeat;
   color: var(--clr-neutral-500);
-  line-height: 1.6;
+  /* line-height: 1.6; */
 }
 
 main {
