@@ -51,7 +51,8 @@ img {
 }
 
 .card__text {
-  padding-bottom: 3.2em;
+  /* padding-bottom: 3.2em; */
+  padding: 3.4em 0 3em 0;
   margin: 0 2.4em;
 }
 
@@ -59,13 +60,14 @@ img {
   font-size: 2.2rem;
   font-weight: 900;
   color: var(--clr-neutral-700);
-  padding: 3.2rem 0 1.6rem 0;
+  /* padding: 3.2rem 0 1.6rem 0; */
+  padding-bottom: 1.6rem;
 }
 .card__text > p {
   text-align: center;
   font-size: 1.5rem;
   font-weight: 500;
-  line-height: 1.55;
+  line-height: 2.5rem;
 }
 .plan {
   display: flex;
@@ -80,7 +82,7 @@ img {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  padding-left: 2em;
+  padding: 0 5em 0 2em;
 }
 
 .plan > img {
@@ -105,7 +107,7 @@ img {
   font-size: 1.3rem;
   font-weight: 700;
   color: var(--clr-primary-700);
-  padding: 0 1.6rem 0 5rem;
+  /* padding: 0 1.6rem 0 5rem; */
 }
 
 button {
@@ -115,11 +117,11 @@ button {
 }
 
 .proceed {
-  font-size: 1.3rem;
+  font-size: 1.5rem;
   font-weight: 900;
   border-radius: 1.1rem;
   border-color: none;
-  padding: 1.5rem 6.4rem;
+  padding: 1.5rem 6.5rem;
   margin-bottom: 2.4rem;
   background-color: var(--clr-primary-700);
   color: #fff;
@@ -174,8 +176,9 @@ button {
   }
 
   .plan {
-    padding: 2.5em;
+    padding: 2.5em 2.4em;
     margin: 2em 0 3.2em 0;
+    /* padding-bottom: 3.2em; */
   }
 
   .plan__price {
