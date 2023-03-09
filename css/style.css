@@ -32,6 +32,7 @@ body {
 
 main {
   max-width: 32.7em;
+  /* max-width: 37.5em; */
 }
 
 img {
@@ -90,7 +91,7 @@ img {
 
 .plan__price > h2,
 .plan__price > p {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
 }
 
 .plan__price > h2 {
@@ -114,7 +115,7 @@ button {
 }
 
 .proceed {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   font-weight: 900;
   border-radius: 1.1rem;
   border-color: none;
