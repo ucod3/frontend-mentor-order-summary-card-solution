@@ -27,6 +27,7 @@ body {
   background-image: url(../images/pattern-background-mobile.svg);
   background-repeat: no-repeat;
   color: var(--clr-neutral-500);
+  font-family: 'Red Hat Display', sans-serif;
 }
 
 main {
@@ -127,7 +128,7 @@ button {
 }
 .cancel {
   font-size: 1.3rem;
-  font-weight: 700;
+  font-weight: 900;
   color: var(--clr-neutral-500);
 }
 .cancel:link {
@@ -183,9 +184,6 @@ button {
     font-size: 1.8rem;
   }
 
-  .plan__change {
-    /* font-size: 1.4rem; */
-  }
   .proceed {
     padding: 1.5rem 10.2rem;
     margin-bottom: 3.2rem;
