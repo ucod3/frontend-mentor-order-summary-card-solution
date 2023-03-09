@@ -27,7 +27,7 @@ body {
   background-image: url(../images/pattern-background-mobile.svg);
   background-repeat: no-repeat;
   color: var(--clr-neutral-500);
-  font-family: 'Red Hat Display', sans-serif;
+  line-height: 1.6;
 }
 
 main {
@@ -66,12 +66,11 @@ img {
   text-align: center;
   font-size: 1.5rem;
   font-weight: 500;
-  line-height: 1.5;
 }
 .plan {
   display: flex;
   align-items: center;
-  padding: 1.3em;
+  padding: 1.6em;
   background-color: var(--clr-neutral-300);
   border-radius: 1.1em;
   margin: 2.4em 0;
@@ -127,8 +126,8 @@ button {
   box-shadow: 0px 2rem 2rem rgba(56, 42, 225, 0.190291);
 }
 .cancel {
-  font-size: 1.3rem;
-  font-weight: 900;
+  font-size: 1.5rem;
+  font-weight: 700;
   color: var(--clr-neutral-500);
 }
 .cancel:link {
@@ -161,11 +160,11 @@ button {
   }
 
   .card__text {
-    padding: 4em 0 4em 0;
+    padding: 4.5em 0 4.8em 0;
+    margin: 0 4.8em;
   }
   .card__text > h1 {
-    font-size: 2.6rem;
-    font-weight: 900;
+    font-size: 2.8rem;
   }
   .card__text > p {
     font-size: 1.6rem;
@@ -173,7 +172,7 @@ button {
 
   .plan {
     padding: 2.5em;
-    margin: 3.2em 0;
+    margin: 2em 0 3.2em 0;
   }
   .plan__price {
     padding-left: 2em;
@@ -184,6 +183,9 @@ button {
     font-size: 1.8rem;
   }
 
+  .plan__change {
+    font-size: 1.4rem;
+  }
   .proceed {
     padding: 1.5rem 10.2rem;
     margin-bottom: 3.2rem;
