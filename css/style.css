@@ -177,9 +177,8 @@ button {
 
   .plan {
     padding: 2.5em 2.4em;
-    margin-top: 2.5em;
+    margin-top: 3em;
     margin-bottom: 3.2em;
-    /* padding-bottom: 3.2em; */
   }
 
   .plan__price {
