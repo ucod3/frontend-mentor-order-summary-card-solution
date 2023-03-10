@@ -53,7 +53,7 @@ img {
 .card__text {
   /* padding-bottom: 3.2em; */
   padding: 3.4em 0 3em 0;
-  margin: 0 2.4em;
+  margin: 0 2.1em;
 }
 
 .card__text > h1 {
@@ -117,7 +117,7 @@ button {
 
 .proceed {
   font-size: 1.5rem;
-  font-weight: 500;
+  font-weight: 900;
   border-radius: 1.1rem;
   border-color: none;
   padding: 1.5rem 6.5rem;
@@ -125,7 +125,7 @@ button {
   background-color: var(--clr-primary-700);
   color: #fff;
   box-shadow: 0px 2rem 2rem rgba(56, 42, 225, 0.190291);
-  line-height: 2rem;
+  /* line-height: 1.985rem; */
 }
 .cancel {
   font-size: 1.5rem;
@@ -164,7 +164,7 @@ button {
   .card__text {
     padding: 0;
     padding-bottom: 4.8em;
-    margin: 0em 4.8em;
+    margin: 0em 2.8em;
   }
   .card__text > h1 {
     font-size: 2.8rem;
