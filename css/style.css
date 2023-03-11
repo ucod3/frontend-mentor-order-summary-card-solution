@@ -168,8 +168,8 @@ button {
   }
   .card__text > h1 {
     font-size: 2.8rem;
-    /* padding: 0rem 0 1.7rem 0; */
-    margin: 4.5rem 0 1.7rem 0;
+    padding: 4.5rem 0 1.7rem 0;
+    /* margin: 4.5rem 0 1.7rem 0; */
     line-height: 2.6rem;
   }
   .card__text > p {
