@@ -173,6 +173,7 @@ button {
   }
   .card__text > p {
     font-size: 1.6rem;
+    line-height: 2.6rem;
   }
 
   .plan {
