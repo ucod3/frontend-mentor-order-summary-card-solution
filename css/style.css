@@ -117,7 +117,7 @@ button {
 
 .proceed {
   font-size: 1.5rem;
-  font-weight: 500;
+  font-weight: 900;
   border-radius: 1.1rem;
   border-color: none;
   padding: 1.5rem 6.5rem;
@@ -200,6 +200,7 @@ button {
   .proceed {
     padding: 1.5rem 10.2rem;
     margin-bottom: 3.2rem;
+    line-height: 2rem;
   }
 
   .proceed:hover {
