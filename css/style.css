@@ -107,6 +107,7 @@ main {
 .plan__price > h2 {
   font-weight: 700;
   color: var(--clr-neutral-700);
+  padding-bottom: 0.3rem;
 }
 .plan__price > p {
   font-weight: 500;
@@ -198,6 +199,7 @@ button {
   }
   .plan__price > h2 {
     font-weight: 900;
+    padding-bottom: 0.6rem;
   }
 
   .plan__change {
