@@ -9,6 +9,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
@@ -26,6 +27,12 @@ Users should be able to:
 
 ![Desktop](./images/order-summary_mobile.png)
 ![Mobile](./images/order-summary-desktop.png)
+
+### Links
+
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/mobilefirst-order-summary-solution-_u3SQQ4tu8)
+
+- Live Site URL: [Live Site](https://ucod3.github.io/frontend-mentor-order-summary-card-solution/)
 
 ## My process
 
