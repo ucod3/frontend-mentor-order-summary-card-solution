@@ -6,10 +6,16 @@
   --clr-neutral-700: hsl(223, 47%, 23%);
   --clr-hover-300: hsl(245, 83%, 68%);
 }
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 * {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
+  font: inherit;
 }
 
 html {
