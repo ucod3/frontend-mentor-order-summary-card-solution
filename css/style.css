@@ -18,6 +18,13 @@
   font: inherit;
 }
 
+img,
+picture,
+svg,
+video {
+  display: block;
+  max-width: 100%;
+}
 html {
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -38,10 +45,6 @@ body {
 
 main {
   max-width: 32.7em;
-}
-
-img {
-  width: 100%;
 }
 
 .illustration-hero {
